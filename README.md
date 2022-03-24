@@ -2,4 +2,4 @@
 
 [르코 홈페이지](https://r0k0r.github.io/Rko)
 
-[베리 홈페이지](https://r0k0r.github.io/Strawberry)
+[베리 홈페이지](https://r0k0r.github.io/strawberry)
